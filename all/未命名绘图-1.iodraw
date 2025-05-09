@@ -101,8 +101,11 @@
         <mxCell id="cc12nuqFj0ZcD3As3W5S-6" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;开放网络资源&lt;span style=&quot;background-color: initial;&quot;&gt;（政府权威网站）&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cc12nuqFj0ZcD3As3W5S-7" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;开放网络资源&lt;span style=&quot;background-color: initial;&quot;&gt;（政府权威网站）&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cc12nuqFj0ZcD3As3W5S-7" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cc12nuqFj0ZcD3As3W5S-8" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;图书&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
