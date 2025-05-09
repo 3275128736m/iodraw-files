@@ -86,6 +86,9 @@
         <mxCell id="B2KdlA2i9DrMfC62A0rx-20" value="分析检索结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="677" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cc12nuqFj0ZcD3As3W5S-1" value="检索策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
