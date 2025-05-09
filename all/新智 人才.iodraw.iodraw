@@ -1,0 +1,101 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="2DAJf1cmrRsrHPuJLcSg">
+    <mxGraphModel dx="1011" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-1" target="_iPjPYJCp6qbK_02-8sF-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="290" />
+              <mxPoint x="180" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-1" target="_iPjPYJCp6qbK_02-8sF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="290" />
+              <mxPoint x="339" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-1" target="_iPjPYJCp6qbK_02-8sF-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="290" />
+              <mxPoint x="489" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-1" target="_iPjPYJCp6qbK_02-8sF-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="290" />
+              <mxPoint x="629" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新质生产力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-2" target="_iPjPYJCp6qbK_02-8sF-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="390" />
+              <mxPoint x="490" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新介质劳动资料&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_iPjPYJCp6qbK_02-8sF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-17" value="利用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_iPjPYJCp6qbK_02-8sF-11">
+          <mxGeometry x="-0.1739" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-3" target="_iPjPYJCp6qbK_02-8sF-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="390" />
+              <mxPoint x="490" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-20" value="服务于" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_iPjPYJCp6qbK_02-8sF-19">
+          <mxGeometry x="0.5498" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高素质劳动者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新料质劳动对象&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-6" target="_iPjPYJCp6qbK_02-8sF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新基础设施&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="_iPjPYJCp6qbK_02-8sF-21" target="_iPjPYJCp6qbK_02-8sF-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iPjPYJCp6qbK_02-8sF-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;高校人才培养模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
