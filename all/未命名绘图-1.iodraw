@@ -107,6 +107,9 @@
         <mxCell id="cc12nuqFj0ZcD3As3W5S-8" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;图书&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cc12nuqFj0ZcD3As3W5S-9" value="&lt;p style=&quot;margin-right: 11.8pt;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;法律法规&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
