@@ -44,6 +44,9 @@
         <mxCell id="B2KdlA2i9DrMfC62A0rx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B2KdlA2i9DrMfC62A0rx-4" target="B2KdlA2i9DrMfC62A0rx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cc12nuqFj0ZcD3As3W5S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2KdlA2i9DrMfC62A0rx-4" target="cc12nuqFj0ZcD3As3W5S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B2KdlA2i9DrMfC62A0rx-4" value="选择信息源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
         </mxCell>
