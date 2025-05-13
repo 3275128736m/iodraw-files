@@ -13,8 +13,8 @@
         <mxCell id="GCFO2_Zc01P6-UtGgZz4-3" value="企业业务应用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GCFO2_Zc01P6-UtGgZz4-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="GCFO2_Zc01P6-UtGgZz4-4" value="企业治理优化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
