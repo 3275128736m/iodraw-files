@@ -7,11 +7,17 @@
         <mxCell id="GCFO2_Zc01P6-UtGgZz4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCFO2_Zc01P6-UtGgZz4-1" target="GCFO2_Zc01P6-UtGgZz4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GCFO2_Zc01P6-UtGgZz4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCFO2_Zc01P6-UtGgZz4-1" target="GCFO2_Zc01P6-UtGgZz4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GCFO2_Zc01P6-UtGgZz4-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI技术&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GCFO2_Zc01P6-UtGgZz4-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ESG战略&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCFO2_Zc01P6-UtGgZz4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCFO2_Zc01P6-UtGgZz4-3" target="GCFO2_Zc01P6-UtGgZz4-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCFO2_Zc01P6-UtGgZz4-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;企业业务应用&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
