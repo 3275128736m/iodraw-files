@@ -19,7 +19,7 @@
         <mxCell id="70666756c84bb93c-11" value="河北应用群落" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="516" y="510" width="34" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="V6hXbeShUATHuXdJ9Ice-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0069d1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="V6hXbeShUATHuXdJ9Ice-2" value="知识技术创新源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0069d1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
