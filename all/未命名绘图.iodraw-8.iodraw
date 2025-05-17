@@ -33,7 +33,7 @@
         <mxCell id="Lgaf20OXlIrUXcTXXMwX-6" value="新料质劳动对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lgaf20OXlIrUXcTXXMwX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lgaf20OXlIrUXcTXXMwX-7" value="新介质劳动对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
