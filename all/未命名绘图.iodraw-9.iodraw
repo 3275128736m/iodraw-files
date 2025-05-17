@@ -39,11 +39,14 @@
         <mxCell id="yNii7UIh_KQIaKH8yXp9-4" value="需求侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yNii7UIh_KQIaKH8yXp9-9" value="供给侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yNii7UIh_KQIaKH8yXp9-9" value="需求侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yNii7UIh_KQIaKH8yXp9-10" value="供给侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yNii7UIh_KQIaKH8yXp9-14" value="供给侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
