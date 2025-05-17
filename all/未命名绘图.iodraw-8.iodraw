@@ -30,11 +30,14 @@
         <mxCell id="Lgaf20OXlIrUXcTXXMwX-5" value="高素质劳动者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lgaf20OXlIrUXcTXXMwX-6" value="新料质劳动对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lgaf20OXlIrUXcTXXMwX-6" value="新料质劳动资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lgaf20OXlIrUXcTXXMwX-7" value="新介质劳动对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgaf20OXlIrUXcTXXMwX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
