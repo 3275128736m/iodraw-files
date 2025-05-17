@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lgaf20OXlIrUXcTXXMwX-72" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lgaf20OXlIrUXcTXXMwX-32">
+        <mxCell id="Lgaf20OXlIrUXcTXXMwX-72" value="带来" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lgaf20OXlIrUXcTXXMwX-32">
           <mxGeometry x="0.6587" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -129,6 +129,11 @@
         </mxCell>
         <mxCell id="Lgaf20OXlIrUXcTXXMwX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lgaf20OXlIrUXcTXXMwX-27" target="Lgaf20OXlIrUXcTXXMwX-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgaf20OXlIrUXcTXXMwX-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lgaf20OXlIrUXcTXXMwX-35">
+          <mxGeometry x="-0.0746" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Lgaf20OXlIrUXcTXXMwX-27" value="产业优化升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="380" width="100" height="50" as="geometry" />
