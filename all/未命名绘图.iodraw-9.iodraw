@@ -87,6 +87,9 @@
         <mxCell id="yNii7UIh_KQIaKH8yXp9-25" value="消费水平" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="490" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yNii7UIh_KQIaKH8yXp9-29" value="供给侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
