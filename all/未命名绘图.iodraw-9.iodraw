@@ -90,7 +90,7 @@
         <mxCell id="yNii7UIh_KQIaKH8yXp9-29" value="劳动力市场" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="170" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yNii7UIh_KQIaKH8yXp9-30" value="劳动力市场" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yNii7UIh_KQIaKH8yXp9-30" value="企业" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
