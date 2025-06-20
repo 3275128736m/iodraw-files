@@ -10,6 +10,9 @@
         <mxCell id="ISQ0RqBI80m0vs4EqjqW-2" value="部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ISQ0RqBI80m0vs4EqjqW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
