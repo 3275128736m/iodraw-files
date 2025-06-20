@@ -30,11 +30,8 @@
         </mxCell>
         <mxCell id="WW8jEoUXoa1YOMAHr1fc-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;strokeColor=#0069d1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="542.5" y="630" as="sourcePoint" />
-            <mxPoint x="542.5" y="702" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="670" />
-            </Array>
+            <mxPoint x="670" y="628" as="sourcePoint" />
+            <mxPoint x="670" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
